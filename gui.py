@@ -35,7 +35,7 @@ class Ui_QDialog(object):
         QDialog.setMinimumSize(QtCore.QSize(483, 372))
         QDialog.setMaximumSize(QtCore.QSize(483, 372))
         icon = QtGui.QIcon()
-        icon.addPixmap(QtGui.QPixmap("Lib/hotdog.jpg"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        icon.addPixmap(QtGui.QPixmap("ImagesLib/hotdog.jpg"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         QDialog.setWindowIcon(icon)
         QDialog.setAutoFillBackground(False)
         QDialog.setStyleSheet("background-color: rgb(255, 255, 0);")
@@ -111,7 +111,7 @@ class Ui_QDialog(object):
         self.logo = QtWidgets.QLabel(QDialog)
         self.logo.setGeometry(QtCore.QRect(344, 131, 121, 141))
         self.logo.setText("")
-        self.logo.setPixmap(QtGui.QPixmap("Lib/logo.png"))
+        self.logo.setPixmap(QtGui.QPixmap("ImagesLib/logo.png"))
         self.logo.setScaledContents(True)
         self.logo.setObjectName("logo")
 
