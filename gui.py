@@ -62,6 +62,7 @@ class Ui_QDialog(object):
         self.quit_button.setObjectName("quit_button")
         self.print_result = QtWidgets.QLineEdit(QDialog)
         self.print_result.setGeometry(QtCore.QRect(130, 260, 113, 20))
+        self.print_result.setAlignment(QtCore.Qt.AlignCenter)
         self.print_result.setStyleSheet("background-color: rgb(255, 255, 255);\n"
 "border-color: rgba(255, 255, 255, 0);")
         self.print_result.setObjectName("print_result")
