@@ -1,4 +1,4 @@
-# Project Title
+# Image Classification Implementation: Dog, Hot Dog, Not Dog
 
 Image classification of Dog, Hot Dog, or not i.e. Not Dog. It is a extension of the popular Silicon Valley scene and a fun project requiring some practice of collecting and cleaning my own data, which I gathered by web scraping, performing transfer learning, and releasing the trained model in a fun little python app.
 
