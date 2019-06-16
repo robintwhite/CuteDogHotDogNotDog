@@ -18,4 +18,4 @@ You can drag and drop an image into the app and hit Classify! Selecting correct 
 See the provided yaml file: DogHotDog_env.yml
 
 ### Examples
-![alt text](https://raw.githubusercontent.com/robintwhite/DogHotDogNotDog/blob/master/DogNotDog.png)
+![alt text](https://github.com/robintwhite/DogHotDogNotDog/blob/master/DogNotDog.png)
